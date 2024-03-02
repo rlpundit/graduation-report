@@ -52,7 +52,7 @@
 #place(bottom + right, box(width: 256pt, text(emph(dedication))))
 
 #set heading(numbering: none)
-#chap("Remerciements") // ACK
+#chap("Remerciements")
 #ack
 
 #set page(numbering: "1")
