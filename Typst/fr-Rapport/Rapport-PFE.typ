@@ -43,7 +43,7 @@
 // LOT
 #pagebreak()
 #outline(
-  title: [Liste des tableaux],
+  title: [Liste des tables],
   target: figure.where(kind: table),
 )
 
